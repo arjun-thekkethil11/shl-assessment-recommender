@@ -6,7 +6,7 @@ GitHub: https://github.com/arjun-thekkethil11
 
 ---
 
-# 📘 **PROJECT_OVERVIEW.md (Place this in Repo Root)**
+# 📘 **PROJECT_OVERVIEW.md**
 
 ```markdown
 # SHL Assessment Recommender — Technical Overview
