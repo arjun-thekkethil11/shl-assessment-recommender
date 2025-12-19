@@ -1,0 +1,16 @@
+# macOS system file
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Debug files
+debug/
+
+# Accidental file
+=

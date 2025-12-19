@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+beautifulsoup4
+requests
+python-multipart
+sentence-transformers
+openpyxl

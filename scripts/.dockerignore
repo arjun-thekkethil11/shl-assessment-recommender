@@ -1,0 +1,11 @@
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+debug
+.git
+.gitignore
+.env
+*.xlsx
+*.pdf
